@@ -2,7 +2,7 @@
 
 ## Introduction
 
-When you get to higher levels of the manager's ladder, chances are that some of your direct reports will be other managers. 
+When you get to higher levels of the manager's ladder, chances are that some of your direct reports will be other managers.
 The manager's actions have a bigger impact on their teams and therefore you need to set expectations differently.
 
 ![Dashboard](/charts/dashboard.png)
@@ -88,6 +88,5 @@ In summary, understanding how each manager is performing on every area is a good
 * [**Introduction**](README.md)
 * [**Developer**](Developer.md)
 * [**Tech Lead**](TechLead.md)
-* [**Technical Program Manager**](TechnicalProgramManager.md)
 * [**Engineering Manager**](EngineeringManager.md)
 * [**Tech Lead vs Engineering Manager**](TechLead-EngineeringManager.md)
