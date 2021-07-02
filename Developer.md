@@ -6,9 +6,9 @@ Role also known as programmer or software engineer, requires a deep level of tec
 | :---: | :---: | :---: |
 | 1 | Junior | [D1 - Developer 1](#d1---developer-1) |
 | 2 | Junior | [D2 - Developer 2](#d2---developer-2) |
-| 3 | Junior | [D3 - Developer 3](#d3---developer-3) |
-| 4 | Senior | [D4 - Developer 4](#d4---developer-4) |
-| 5 | Senior | [D5 - Developer 5](#d5---developer-5) |
+| 3 | Junior/Professional | [D3 - Developer 3](#d3---developer-3) |
+| 4 | Professional | [D4 - Developer 4](#d4---developer-4) |
+| 5 | Professional/Senior | [D5 - Developer 5](#d5---developer-5) |
 | 6 | Senior | [D6 - Developer 6](#d6---developer-6) |
 | 7 | Senior | [D7 - Developer 7](#d7---developer-7) |
 
