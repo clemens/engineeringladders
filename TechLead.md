@@ -38,7 +38,7 @@ Role also known as dev lead, is the owner of the system and requires a unique ba
 * **Leads**: leads the technical excellence of the system and creates plans to mitigate outages
 * **Coordinates**: coordinates team members providing effective feedback and moderating discussions
 * **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
-* **Multiple Teams**: makes an impact not only on the whole team but also on other teams
+* **Tech Organization**: makes an impact not only his/her team but also in large parts of the tech organization
 
 ## TL7 - Tech Lead 7
 
@@ -48,7 +48,7 @@ Role also known as dev lead, is the owner of the system and requires a unique ba
 * **Leads**: leads the technical excellence of the system and creates plans to mitigate outages
 * **Coordinates**: coordinates team members providing effective feedback and moderating discussions
 * **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
-* **Company**: makes an impact on the whole tech organization
+* **Company**: makes an impact on the whole company (incl. outside of technology)
 
 # Other Pages
 

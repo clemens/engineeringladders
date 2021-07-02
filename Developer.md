@@ -62,7 +62,7 @@ Note: (Professional) Experience refers to working as a developer/tech lead/engin
 * **Evolves**: evolves the architecture to support future requirements and defines its SLAs
 * **Mentors**: mentors others to accelerate their career-growth and encourages them to participate
 * **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
-* **Multiple Teams**: makes an impact not only on the whole team but also on other teams
+* **Tech Organization**: makes an impact not only his/her team but also in large parts of the tech organization
 
 ## D6 - Developer 6
 
@@ -72,7 +72,7 @@ Note: (Professional) Experience refers to working as a developer/tech lead/engin
 * **Leads**: leads the technical excellence of the system and creates plans to mitigate outages
 * **Mentors**: mentors others to accelerate their career-growth and encourages them to participate
 * **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
-* **Company**: makes an impact on the whole tech organization
+* **Company**: makes an impact on the whole company (incl. outside of technology)
 
 ## D7 - Developer 7
 
@@ -82,7 +82,7 @@ Note: (Professional) Experience refers to working as a developer/tech lead/engin
 * **Leads**: leads the technical excellence of the system and creates plans to mitigate outages
 * **Mentors**: mentors others to accelerate their career-growth and encourages them to participate
 * **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
-* **Community**: makes an impact on the tech community
+* **Community**: makes an impact on the (tech) community
 
 # Other Pages
 

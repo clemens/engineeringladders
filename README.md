@@ -85,9 +85,9 @@ Keep reading to better understand each level.
 
 1. **Subsystem**: makes an impact on one or more subsystems
 2. **Team**: makes an impact on the whole team, not just on specific parts of it
-3. **Multiple Teams**: makes an impact not only his/her team but also on other teams
-4. **Company**: makes an impact on the whole tech organization
-5. **Community**: makes an impact on the tech community
+3. **Tech Organization**: makes an impact not only his/her team but also in large parts of the tech organization
+4. **Company**: makes an impact on the whole company (incl. outside of technology)
+5. **Community**: makes an impact on the (tech) community
 
 # FAQs
 

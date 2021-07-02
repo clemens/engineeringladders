@@ -38,7 +38,7 @@ If you have other managers as direct reports, you might want to read the [Managi
 * **Evolves**: evolves the architecture to support future requirements and defines its SLAs
 * **Manages**: manages the team members' career, expectations, performance and level of happiness
 * **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
-* **Multiple Teams**: makes an impact not only on the whole team but also on other teams
+* **Tech Organization**: makes an impact not only his/her team but also in large parts of the tech organization
 
 # Other Pages
 
