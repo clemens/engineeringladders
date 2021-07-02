@@ -20,7 +20,7 @@ The framework has 4 different ladders:
 
 If you are confused about the difference between a [Tech Lead](TechLead.md) and an [Engineering Manager](EngineeringManager.md), please refer to the [Tech Lead vs Engineering Manager](TechLead-EngineeringManager.md) page for a detailed comparison.
 
-| Level | Seniority | (Professional) Experience | [Developer](Developer.md) | [Tech Lead](TechLead.md) | [Engineering Manager](EngineeringManager.md) |
+| Level | Seniority | Experience | [Developer](Developer.md) | [Tech Lead](TechLead.md) | [Engineering Manager](EngineeringManager.md) |
 | :---: | :---: | :---: | :---: | :---: |
 | 1 | Junior | 0-1y | [D1](Developer.md#d1---developer-1) | | |
 | 2 | Junior | 1-2y | [D2](Developer.md#d2---developer-2) | | |
@@ -32,7 +32,7 @@ If you are confused about the difference between a [Tech Lead](TechLead.md) and 
 
 (click on position name for more details)
 
-Note: (Professional) Experience refers to working as a developer/tech lead/engineering manager for the given number of years full-time in a professional setting. Hobby projects, university work etc. probably doesn't count as such, but might be counted on a case-by-case basis. Part-time work counts, but is adequately discounted. The numbers are rough estimates and by no means set in stone: Talented developers might reach D5 in less than 5 years; talented leaders/managers (especially such coming from other disciplines) might be suitable Tech Leads/Engineering Managers with fewer years of (tech) experience.
+Note: Experience refers to working as a developer/tech lead/engineering manager for the given number of years full-time in a professional setting. Hobby projects, university work etc. probably doesn't count as such, but might be counted on a case-by-case basis. Part-time work counts, but is adequately discounted. The numbers are rough estimates and by no means set in stone: Talented developers might reach D5 in less than 5 years; talented leaders/managers (especially such coming from other disciplines) might be suitable Tech Leads/Engineering Managers with fewer years of (tech) experience.
 
 # Axes
 

@@ -2,7 +2,7 @@
 
 Role also known as programmer or software engineer, requires a deep level of technical expertise.
 
-| Level | Seniority | (Professional) Experience | Position |
+| Level | Seniority | Experience | Position |
 | :---: | :---: | :---: |
 | 1 | Junior | 0-1y | [D1 - Developer 1](#d1---developer-1) |
 | 2 | Junior | 1-2y | [D2 - Developer 2](#d2---developer-2) |
@@ -12,7 +12,7 @@ Role also known as programmer or software engineer, requires a deep level of tec
 | 6 | Senior | 7-10y | [D6 - Developer 6](#d6---developer-6) |
 | 7 | Senior | > 10y | [D7 - Developer 7](#d7---developer-7) |
 
-Note: (Professional) Experience refers to working as a developer/tech lead/engineering manager for the given number of years full-time in a professional setting. Hobby projects, university work etc. probably doesn't count as such, but might be counted on a case-by-case basis. Part-time work counts, but is adequately discounted. The numbers are rough estimates and by no means set in stone: Talented developers might reach D5 in less than 5 years; talented leaders/managers (especially such coming from other disciplines) might be suitable Tech Leads/Engineering Managers with fewer years of (tech) experience.
+Note: Experience refers to working as a developer/tech lead/engineering manager for the given number of years full-time in a professional setting. Hobby projects, university work etc. probably doesn't count as such, but might be counted on a case-by-case basis. Part-time work counts, but is adequately discounted. The numbers are rough estimates and by no means set in stone: Talented developers might reach D5 in less than 5 years; talented leaders/managers (especially such coming from other disciplines) might be suitable Tech Leads/Engineering Managers with fewer years of (tech) experience.
 
 ## D1 - Developer 1
 
