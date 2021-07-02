@@ -13,7 +13,7 @@ The framework relies heavily in radar charts to show visually the different pers
 
 # Career Ladders
 
-The framework has 4 different ladders:
+The framework has multiple ladders:
 
 * [**Developer**](Developer.md): role also known as programmer or software engineer, requires a deep level of technical expertise
 * [**Tech Lead**](TechLead.md): role also known as dev lead or architect, is the owner of the system and requires a unique balance between hands-on development, architecture knowledge and production support
