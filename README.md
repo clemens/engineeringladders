@@ -18,17 +18,19 @@ The framework has 4 different ladders:
 
 If you are confused about the difference between a [Tech Lead](TechLead.md) and an [Engineering Manager](EngineeringManager.md), please refer to the [Tech Lead vs Engineering Manager](TechLead-EngineeringManager.md) page for a detailed comparison.
 
-| Level | Seniority | [Developer](Developer.md) | [Tech Lead](TechLead.md) | [Engineering Manager](EngineeringManager.md) |
+| Level | Seniority | (Professional) Experience | [Developer](Developer.md) | [Tech Lead](TechLead.md) | [Engineering Manager](EngineeringManager.md) |
 | :---: | :---: | :---: | :---: | :---: |
-| 1 | Junior | [D1](Developer.md#d1---developer-1) | | |
-| 2 | Junior | [D2](Developer.md#d2---developer-2) | | |
-| 3 | Junior/Professional | [D3](Developer.md#d3---developer-3) | | |
-| 4 | Professional | [D4](Developer.md#d4---developer-4) | [TL4](TechLead.md#tl4---tech-lead-4)| |
-| 5 | Professional/Senior | [D5](Developer.md#d5---developer-5) | [TL5](TechLead.md#tl5---tech-lead-5)| [EM5](EngineeringManager.md#em5---engineering-manager-5) |
-| 6 | Senior | [D6](Developer.md#d6---developer-6) | [TL6](TechLead.md#tl6---tech-lead-6)| [EM6](EngineeringManager.md#em6---engineering-manager-6) |
-| 7 | Senior | [D7](Developer.md#d7---developer-7) | [TL7](TechLead.md#tl7---tech-lead-7)| [EM7](EngineeringManager.md#em7---engineering-manager-7) |
+| 1 | Junior | 0-1y | [D1](Developer.md#d1---developer-1) | | |
+| 2 | Junior | 1-2y | [D2](Developer.md#d2---developer-2) | | |
+| 3 | Junior/Professional | 2-3y | [D3](Developer.md#d3---developer-3) | | |
+| 4 | Professional | 3-5y | [D4](Developer.md#d4---developer-4) | [TL4](TechLead.md#tl4---tech-lead-4)| |
+| 5 | Professional/Senior | 5-7y | [D5](Developer.md#d5---developer-5) | [TL5](TechLead.md#tl5---tech-lead-5)| [EM5](EngineeringManager.md#em5---engineering-manager-5) |
+| 6 | Senior | 7-10y | [D6](Developer.md#d6---developer-6) | [TL6](TechLead.md#tl6---tech-lead-6)| [EM6](EngineeringManager.md#em6---engineering-manager-6) |
+| 7 | Senior | > 10y | [D7](Developer.md#d7---developer-7) | [TL7](TechLead.md#tl7---tech-lead-7)| [EM7](EngineeringManager.md#em7---engineering-manager-7) |
 
 (click on position name for more details)
+
+Note: (Professional) Experience refers to working as a developer/tech lead/engineering manager for the given number of years full-time in a professional setting. Hobby projects, university work etc. probably doesn't count as such, but might be counted on a case-by-case basis. Part-time work counts, but is adequately discounted. The numbers are rough estimates and by no means set in stone: Talented developers might reach D5 in less than 5 years; talented leaders/managers (especially such coming from other disciplines) might be suitable Tech Leads/Engineering Managers with fewer years of (tech) experience.
 
 # Axes
 

@@ -2,15 +2,17 @@
 
 Role also known as programmer or software engineer, requires a deep level of technical expertise.
 
-| Level | Seniority | Position |
+| Level | Seniority | (Professional) Experience | Position |
 | :---: | :---: | :---: |
-| 1 | Junior | [D1 - Developer 1](#d1---developer-1) |
-| 2 | Junior | [D2 - Developer 2](#d2---developer-2) |
-| 3 | Junior/Professional | [D3 - Developer 3](#d3---developer-3) |
-| 4 | Professional | [D4 - Developer 4](#d4---developer-4) |
-| 5 | Professional/Senior | [D5 - Developer 5](#d5---developer-5) |
-| 6 | Senior | [D6 - Developer 6](#d6---developer-6) |
-| 7 | Senior | [D7 - Developer 7](#d7---developer-7) |
+| 1 | Junior | 0-1y | [D1 - Developer 1](#d1---developer-1) |
+| 2 | Junior | 1-2y | [D2 - Developer 2](#d2---developer-2) |
+| 3 | Junior/Professional | 2-3y | [D3 - Developer 3](#d3---developer-3) |
+| 4 | Professional | 3-5y | [D4 - Developer 4](#d4---developer-4) |
+| 5 | Professional/Senior | 5-7y | [D5 - Developer 5](#d5---developer-5) |
+| 6 | Senior | 7-10y | [D6 - Developer 6](#d6---developer-6) |
+| 7 | Senior | > 10y | [D7 - Developer 7](#d7---developer-7) |
+
+Note: (Professional) Experience refers to working as a developer/tech lead/engineering manager for the given number of years full-time in a professional setting. Hobby projects, university work etc. probably doesn't count as such, but might be counted on a case-by-case basis. Part-time work counts, but is adequately discounted. The numbers are rough estimates and by no means set in stone: Talented developers might reach D5 in less than 5 years; talented leaders/managers (especially such coming from other disciplines) might be suitable Tech Leads/Engineering Managers with fewer years of (tech) experience.
 
 ## D1 - Developer 1
 
