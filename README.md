@@ -1,6 +1,7 @@
 # Introduction
 
-_Note: Engineering Ladders were forked from http://www.engineeringladders.com/ and adapted in some areas (see [differences to original](https://github.com/jorgef/engineeringladders/compare/master...clemens:master)). Thanks for providing the original, Jorge!_
+_Note: This version of Engineering Ladders was forked from
+[Jorge Fioranelli's Engineering Ladders](http://www.engineeringladders.com/) and adapted in some areas (see [differences to original](https://github.com/jorgef/engineeringladders/compare/master...clemens:master)). Thanks for providing the original, Jorge!_
 
 This framework allows software engineering managers to have meaningful conversations with their direct reports around the expectations of each position and how to plan for the next level in their career ladder.
 
