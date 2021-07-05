@@ -23,13 +23,13 @@ If you are confused about the difference between a [Tech Lead](TechLead.md) and 
 
 | Level | Seniority | Experience | [Developer](Developer.md) | [Tech Lead](TechLead.md) | [Engineering Manager](EngineeringManager.md) |
 | :---: | :---: | :---: | :---: | :---: |
-| 1 | Junior | 0-1y | [D1](Developer.md#d1---developer-1) | | |
-| 2 | Junior | 1-2y | [D2](Developer.md#d2---developer-2) | | |
-| 3 | Junior/Professional | 2-3y | [D3](Developer.md#d3---developer-3) | | |
-| 4 | Professional | 3-5y | [D4](Developer.md#d4---developer-4) | [TL4](TechLead.md#tl4---tech-lead-4)| |
-| 5 | Professional/Senior | 5-7y | [D5](Developer.md#d5---developer-5) | [TL5](TechLead.md#tl5---tech-lead-5)| [EM5](EngineeringManager.md#em5---engineering-manager-5) |
-| 6 | Senior | 7-10y | [D6](Developer.md#d6---developer-6) | [TL6](TechLead.md#tl6---tech-lead-6)| [EM6](EngineeringManager.md#em6---engineering-manager-6) |
-| 7 | Senior | > 10y | [D7](Developer.md#d7---developer-7) | [TL7](TechLead.md#tl7---tech-lead-7)| [EM7](EngineeringManager.md#em7---engineering-manager-7) |
+| 1 | Junior | 0-2y | [D1](Developer.md#d1---developer-1) | | |
+| 2 | Junior | 1-3y | [D2](Developer.md#d2---developer-2) | | |
+| 3 | Junior/Professional | 2-4y | [D3](Developer.md#d3---developer-3) | | |
+| 4 | Professional | 3-8y | [D4](Developer.md#d4---developer-4) | [TL4](TechLead.md#tl4---tech-lead-4)| |
+| 5 | Professional/Senior | 6-10y | [D5](Developer.md#d5---developer-5) | [TL5](TechLead.md#tl5---tech-lead-5)| [EM5](EngineeringManager.md#em5---engineering-manager-5) |
+| 6 | Senior | 8-12y | [D6](Developer.md#d6---developer-6) | [TL6](TechLead.md#tl6---tech-lead-6)| [EM6](EngineeringManager.md#em6---engineering-manager-6) |
+| 7 | Senior | > 12y | [D7](Developer.md#d7---developer-7) | [TL7](TechLead.md#tl7---tech-lead-7)| [EM7](EngineeringManager.md#em7---engineering-manager-7) |
 
 (click on position name for more details)
 
